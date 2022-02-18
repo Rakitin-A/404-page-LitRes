@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     var genreList = document.getElementById('js_genre_list'); // список жанров
     var menuIcon = document.getElementById('mobile_icon'); //
-    var menuText = document.getElementById('mobile_burger'); //
+    var menuText = document.getElementById('mobile_burger'); //   по клику "меню" -page-404
    
 
     /* Скрыть лишние жанры после загрузки страницы */
